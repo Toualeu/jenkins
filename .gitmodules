@@ -2,3 +2,4 @@
 	path = C:\Users\stallone\Desktop\jenkins\install-jenkins-docker
 [learn-jenkins-app]
 	path = C:\Users\stallone\Desktop\jenkins\learn-jenkins-app
+	url = https://github.com/Toualeu/learn-jenkins-app
