@@ -1,0 +1,4 @@
+[install-jenkins-docker]
+	path = C:\Users\stallone\Desktop\jenkins\install-jenkins-docker
+[learn-jenkins-app]
+	path = C:\Users\stallone\Desktop\jenkins\learn-jenkins-app
